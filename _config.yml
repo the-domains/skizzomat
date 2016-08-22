@@ -1,14 +1,14 @@
-layout_spectrum: 0.5650102857034653
-typography_spectrum: 0.13460824941284955
+layout_spectrum: 0.16855898359790444
+typography_spectrum: 0.12241027946583927
 color:
-  brandStrength: 0.953394424635917
-  lightness: 0.5577468636911362
-  saturation: 0.30111536104232073
-  rhythmicContrast: 0.016824994003400207
+  brandStrength: 0.026664426317438483
+  lightness: 0.6612774508539587
+  saturation: 0.7079792814329267
+  rhythmicContrast: 0.012545623118057847
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: Skizzomat
